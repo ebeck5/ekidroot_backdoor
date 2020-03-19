@@ -1,0 +1,51 @@
+#!/bin/sh
+clear
+echo "
+\033[1;31mWELCOME TO MY TOOLS\033[1;31m"
+echo "
+\033[1;31mATHOR : EBECK KANSAS\033[1;31m"
+echo "
+\033[1;34mYOUTUBE : Ekid Root\033[1;34m"
+sleep 2
+
+figlet BACKDOR | lolcat
+echo "
+\033[1;36mKOMPUTER: \033[1;36m"
+echo "____________________________"
+echo "|                           |"
+echo "| HACKED BY : EBECK KANSAS  |"
+echo "| YOUTUBE   : Ekid Root     |"
+echo "|                           |"
+echo "|                           |"
+echo "|___________________________|"
+echo "           ||||              "
+echo "  _________[][]_________     " 
+echo " []                    []"
+
+sleep 2
+
+echo "
+\033[1;31mANDROID: \033[1;31m"
+echo " ______________________________"
+echo "|________🔴___________________|" 
+echo "|                             |"
+echo "|                             |"
+echo "|                             |"
+echo "|      EBECK KANSAS           |"
+echo "|       EKID ROOT             |"
+echo "|                             |"
+echo "|                             |"
+echo "|                             |"
+echo "|                             |"
+echo "|_____________________________|"
+echo "|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|"
+echo "|p|q|r|s|t|u|v|w|x|y|z|1|2|3|4|"
+echo "|5|6|7|8|9|10@|%|&|-|-|(|)|%|2|"
+echo "|_________[_______]___________|"
+
+sleep 10
+cd
+cd ..
+cd usr/etc
+nano bash.bashrc
+ 
